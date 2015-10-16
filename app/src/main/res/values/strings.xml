@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TJS</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_forgot_pass">Forgot Password</string>
+    <string name="title_activity_sign_up">Sign UP</string>
+    <string name="title_activity_splash">TJS</string>
+    <string name="title_activity_cart">Cart</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_payment">PaymentActivity</string>
+
+</resources>

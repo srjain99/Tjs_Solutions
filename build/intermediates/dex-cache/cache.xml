@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\AndroidProjects\AndroidMaterialNavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="F:\AndroidProjects\AndroidMaterialNavigationDrawer\app\build\intermediates\pre-dexed\debug\classes-844ae277eb39c4f1723e4bb1b21f6f43c6ee0ff8.jar" />
+    </item>
+    <item
+        jar="F:\AndroidProjects\AndroidMaterialNavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="F:\AndroidProjects\AndroidMaterialNavigationDrawer\app\build\intermediates\pre-dexed\debug\classes-d94c2d3ae891de2c0671fb95875f78ff2be1a53f.jar" />
+    </item>
+    <item
+        jar="E:\softwares\Android development kit\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="F:\AndroidProjects\AndroidMaterialNavigationDrawer\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-8f3ec85c59c30c1d59cebad1c440e23e4c619d5a.jar" />
+    </item>
+    <item
+        jar="F:\AndroidProjects\AndroidMaterialNavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="F:\AndroidProjects\AndroidMaterialNavigationDrawer\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-77d13f0a955506a70f796a3fd5750548a696cb6c.jar" />
+    </item>
+
+</items>

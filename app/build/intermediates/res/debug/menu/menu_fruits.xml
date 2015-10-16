@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.manishkpr.Tjs_Solutions.Fruit_Products"
+    >
+
+    <item android:id="@+id/add_to_cart"
+        android:title="Add to Cart"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        />
+</menu>
+<!-- From: file:/F:/AndroidProjects/AndroidMaterialNavigationDrawer/app/src/main/res/menu/menu_fruits.xml -->

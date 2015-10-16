@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.manishkpr.Tjs_Solutions.SignUpActivity">
+</menu>
+<!-- From: file:/F:/AndroidProjects/AndroidMaterialNavigationDrawer/app/src/main/res/menu/menu_sign_up.xml -->
